@@ -17,3 +17,6 @@ For our Supervised Learning methods, we will utilize:
 - Logistic Regression
 
 To vectorize the text, we will utilize Gensim's Word2Vec and scikit-learn's CountVectorizer plus TfidfVectorizer. Additionally, we will use RandomizedSearchCV to help with our parameter tuning and, hopefully, improve our models.
+
+Files are posted in .pdf and .ipynb for ease of viewing.
+
